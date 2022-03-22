@@ -1,8 +1,8 @@
 # Protocolo SCTP
 Protocolo SCTP Implementado en C
 ##### Table of Contents  
-[Para distribuciones basadas en Debian/Ubuntu](#Debian/Ubuntu)  
-[Para distribuciones basadas en RedHat/Centos](#RedHat/Centos)  
+[Para distribuciones basadas en Debian/Ubuntu](https://github.com/MK-ID/ProtocoloSCTP/edit/master/README.md#debianubuntu)  
+[Para distribuciones basadas en RedHat/Centos](https://github.com/MK-ID/ProtocoloSCTP/edit/master/README.md#redhatcentos)  
 
 
 ## Debian/Ubuntu
